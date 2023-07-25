@@ -3,7 +3,7 @@ library(tidyverse)
 
 species <- ebirdhistorical(
   loc = "US-CA-017",
-  key = "",
+  key = "vd22umpprej0",
   date = "2022-06-16"
 )
 
